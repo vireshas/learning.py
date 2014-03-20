@@ -1,0 +1,26 @@
+Synchronous:
+Started synchronous: at 0.0 seconds
+Task 1 done in [ 1 ] seconds
+Task 2 done in [ 9 ] seconds
+Task 3 done in [ 8 ] seconds
+Task 4 done in [ 3 ] seconds
+Task 5 done in [ 2 ] seconds
+Task 6 done in [ 4 ] seconds
+Task 7 done in [ 8 ] seconds
+Task 8 done in [ 9 ] seconds
+Task 9 done in [ 6 ] seconds
+Ended synchronous: at 50.0 seconds
+Asynchronous:
+Started asynchronous: at 50.0 seconds
+Task 8 done in [ 0 ] seconds
+Task 0 done in [ 6 ] seconds
+Task 3 done in [ 6 ] seconds
+Task 5 done in [ 6 ] seconds
+Task 7 done in [ 6 ] seconds
+Task 2 done in [ 7 ] seconds
+Task 4 done in [ 7 ] seconds
+Task 1 done in [ 10 ] seconds
+Task 6 done in [ 10 ] seconds
+Task 9 done in [ 10 ] seconds
+Ended asynchronous: at 60.0 seconds
+
